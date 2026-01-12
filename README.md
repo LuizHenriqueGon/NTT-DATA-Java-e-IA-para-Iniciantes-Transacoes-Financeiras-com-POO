@@ -1,4 +1,3 @@
-# NTT-DATA-Java-e-IA-para-Iniciantes-Transacoes-Financeiras-com-POO
 # Banco Digital com Programação Orientada a Objetos em Java
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
